@@ -1,0 +1,3 @@
+include *.txt *.md *.csv *.py
+prune .ipynb_checkpoints
+exclude *.ipynb
